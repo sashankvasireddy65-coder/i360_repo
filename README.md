@@ -10,15 +10,13 @@ This project analyzes the operational and financial performance of three store b
 ### 1. Profitability Analysis
 - Calculated Net Profit for each branch using:
   
-\[
-\text{Net Profit} = \text{Total Sales} - \text{Operating Cost}
-\]
+Net Profit} = Total Sales - Operating Cost
 
 - Calculated Profit Margin Percentage using:
 
-\[
-\text{Profit Margin \%} = \frac{\text{Net Profit}}{\text{Total Sales}} \times 100
-\]
+
+{Profit Margin \%} = {{Net Profit}}/{{Total Sales}}*100
+
 
 ---
 
@@ -61,5 +59,4 @@ This project analyzes the operational and financial performance of three store b
 
 ## Files Included
 - `assessment.ipynb` — Main analysis notebook
-- `monthly_operations_review.csv` — Dataset used for analysis
 
